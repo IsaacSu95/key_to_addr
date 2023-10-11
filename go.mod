@@ -1,4 +1,4 @@
-module key_to_addr
+module github.com/IsaacSu95/key_to_addr
 
 go 1.20
 
